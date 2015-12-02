@@ -18,3 +18,5 @@ To see the other handlers run, just append the handler path like you did on your
 
 `https://<your-project-id>.appspot.com/results`
 
+
+<a href='https://learn.co/lessons/cssi-7.6-deploying-an-app' data-visibility='hidden'>View this lesson on Learn.co</a>
