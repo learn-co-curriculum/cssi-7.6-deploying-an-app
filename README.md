@@ -19,4 +19,4 @@ To see the other handlers run, just append the handler path like you did on your
 `https://<your-project-id>.appspot.com/results`
 
 
-<a href='https://learn.co/lessons/cssi-7.6-deploying-an-app' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-7.6-deploying-an-app' title='How to Deploy on Google App Engine'>How to Deploy on Google App Engine</a> on Learn.co and start learning to code for free.</p>
